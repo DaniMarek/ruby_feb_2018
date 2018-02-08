@@ -62,8 +62,17 @@ no_neg = []
 for i in array
 no_neg.push(i) if i.positive?
 p no_neg
+end
 
 #Max, Min, and average
+array = [1, 2, -2, 6, 22]
+
+p array.max
+p array.min
+
+a= array.inject(&:+)
+b= array.size
+puts "average is #{ a/b }"
 
 #Shifting the values in the array
 
