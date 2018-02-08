@@ -29,13 +29,9 @@ class Human
 			false
 		end
 	end
+
+	def display_stats
+		puts "Health: #{@health}"
+		self
+	end
 end
-
-class Wizard < Human
-
-end
-
-
-me = Human.new
-you = Wizard.new
-me.attack(you)
