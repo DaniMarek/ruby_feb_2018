@@ -75,5 +75,12 @@ b= array.size
 puts "average is #{ a/b }"
 
 #Shifting the values in the array
+x=  [1, 5, 10, 7, -2]
+x.rotate!(1)[x.length-1] = 0
+puts x.to_s
 
 #Number to string
+arr = [-1, -3, 2]
+puts arr.each_index { |index| arr[index] = "Dojo" if arr[index] < 0 }
+
+puts arr.to_s
