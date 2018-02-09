@@ -14,4 +14,6 @@
 
 # 5.upto(10) { |i| print i, " " }
 
-p [50,15,22,3,2].avg
+y = ('2'...'8')
+
+p y.to_a.shuffle.to_s
