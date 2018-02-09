@@ -27,6 +27,7 @@ NOTE: If you don't get in at least one pull request daily, then *_ya ain't serio
 Intro to Ruby - https://youtu.be/faCI0s62vAg <br>
 Push to class repo - https://youtu.be/eD6qnTbpJrw <br>
 Models - https://youtu.be/57_j_k-EoPc <br>
+Self Joins - https://youtu.be/P81SVvsfkPM <br>
 
 ## Demos
 
