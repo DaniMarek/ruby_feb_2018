@@ -29,6 +29,7 @@ Push to class repo - https://youtu.be/eD6qnTbpJrw <br>
 Models - https://youtu.be/57_j_k-EoPc <br>
 Self Joins - https://youtu.be/P81SVvsfkPM <br>
 Controllers and Views - https://youtu.be/5T_rvY8Q7nE <br>
+Forms and Strong Params - https://youtu.be/EVRscMktCEs <br>
 
 ## Demos
 
