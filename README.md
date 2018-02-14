@@ -30,6 +30,7 @@ Models - https://youtu.be/57_j_k-EoPc <br>
 Self Joins - https://youtu.be/P81SVvsfkPM <br>
 Controllers and Views - https://youtu.be/5T_rvY8Q7nE <br>
 Forms and Strong Params - https://youtu.be/EVRscMktCEs <br>
+Layouts / Asset Pipeline - https://youtu.be/4uOBt24Cd40 <br>
 
 ## Demos
 
